@@ -20,6 +20,13 @@
 
 This repository serves as a template for new projects to be created with Next.js and Tailwindcss. It contains all the necessary files and configurations to quickly and easily start developing Next.js applications with Tailwindcss styling. Use it as a starting point for your own projects or modify it according to your wishes.
 
+**Features include**
+* Next.js
+* Tailwindcss
+* Tailwind plugins
+* Pre-Built Folder Strucuture
+* Others
+
 <br />
 
 ## Setup
